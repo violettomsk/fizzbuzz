@@ -1,1 +1,1 @@
-# fizzbuzz
+run fizzbuzz <number>
